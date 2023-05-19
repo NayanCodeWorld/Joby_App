@@ -1,0 +1,26 @@
+.header-container {
+  width: 100%;
+  /* border: 2px solid blue; */
+  padding: 15px;
+  background-color: #dbeafe;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  /* border: 2px solid red; */
+}
+
+.website-logo {
+  height: 50px;
+  width: 80px;
+}
+
+.logo-heading {
+  font-size: 35px;
+  font-family: Bree Serif;
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+  margin-left: 15px;
+}
